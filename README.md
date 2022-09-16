@@ -69,3 +69,12 @@
 - [Replace empty strings in object with null values](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Objects/Replace%20empty%20strings%20in%20object%20with%20null%20values.js)
 - [Sum object values](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Objects/Sum%20object%20values.js)
 - [Swap object keys and values](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Objects/Swap%20object%20keys%20and%20values.js)
+
+# JavaScript Sets
+- [Add multiple elements to Set](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Add%20multiple%20elements%20to%20Set.js)
+- [Check if value is present in Set](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Check%20if%20value%20is%20present%20in%20Set.js)
+- [Convert a Set to Array](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Convert%20a%20Set%20to%20Array.js)
+- [Creating Javascript Sets](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Creating%20Javascript%20Sets.js)
+- [Delete element from Set](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Delete%20element%20from%20Set.js)
+- [Get Intersection of two Javascript Sets](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Get%20Intersection%20of%20two%20Javascript%20Sets.js)
+- [Get union of two sets](https://github.com/0x3brvh1m/JSchallenger/blob/main/JavaScript%20Sets/Get%20union%20of%20two%20sets.js)
